@@ -9,7 +9,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
-replace github.com/tuannvm/oauth-mcp-proxy v1.0.1 => ../oauth-mcp-proxy
+replace github.com/tuannvm/oauth-mcp-proxy v1.0.1 => github.com/caiopavanelli/oauth-mcp-proxy v1.2.1
 
 require (
 	github.com/coreos/go-oidc/v3 v3.16.0 // indirect
